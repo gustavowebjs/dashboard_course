@@ -2,6 +2,21 @@
 Dashboard em Material-UI e ReactJs
 
 
-01 - Faça o Git clone
-02 - Rode o comando YARN ou NPM INSTALL
-03 - Rode YARN START ou NPM START
+Primeiro passo:
+```sh
+$ git clone
+```
+
+Segundo Passo:
+```sh
+$ run YARN or NPM INSTALL
+```
+
+Terceiro Passo:
+```sh
+$ run YARN START or NPM START
+```
+
+Preview:
+
+[![N|Solid](http://book.ibraeducacional.com.br/img/ead.png)]
